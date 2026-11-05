@@ -1,0 +1,19 @@
+Ocean Foundry v1.3 — 由 SirChocoo 制作
+
+1. 将整个 ZIP 解压到可写文件夹，例如“文档”。不要直接在 ZIP 内运行。
+2. 双击 Ocean Foundry.exe。保留 _internal 文件夹及所有随附文件。
+3. 设置地基，在“颜色与玻璃”选择海洋或熔岩及法线来源，调整颜色并烘焙。
+4. 在“导出”选择 .litematic、.schem 或 Axiom .bp。
+
+64 位 Windows 便携应用；无需另装 Python、Minecraft 或在线生成服务。
+导入和放置导出结构需要相应的 Minecraft 模组。方块调色板基于 Java 26.1.2；
+包含颜色时使用该版本，导入前请确认模组兼容性。
+
+升级：先正常关闭旧版。备份旧应用文件夹，将 v1.3 解压到同一位置并替换
+程序文件。保留 settings.json、settings.bak、normal_maps、配置和 exports。
+新默认值不会覆盖已有 settings.json。保留用户文件后再移除旧程序文件。
+可在英文和中文版间更换；两者功能和配置格式相同，切勿同时运行同一文件夹内的应用。
+
+User Guide.md 为完整指南；Release Notes.md 为更新说明和已知限制。
+指南也可在应用中查看。3D 预览是近似效果，可能与游戏光影不同。
+如需报告启动错误，请附上程序旁的 error.log（如有）、Windows/显卡信息和复现步骤。

@@ -1,0 +1,52 @@
+# Local toolchains and build scratch
+.venv/
+.build/
+.tools/
+.git-initial-empty/
+__pycache__/
+*.py[cod]
+
+# Personal settings and backups (preserved on disk, never committed)
+settings.json
+settings.tmp
+settings.bak
+*.bak
+error.log
+
+# User imports, exports and named profiles
+normal_maps/
+exports/
+*.litematic
+*.schem
+*.bp
+
+# Built executables and public release archives (rebuilt only when requested)
+*.exe
+/_internal/
+release/*.zip
+
+# Raster artwork stays out of history, except the shipped normal-map assets and README image
+*.png
+!ocean_normals/*.png
+!lava_normals/*.png
+!docs/samples.png
+
+# Internal development notes, research and tooling (not part of the public repo)
+AGENTS.md
+PROJECT_CONTEXT.md
+NEXT_CHAT_PROMPT.md
+DEVELOPMENT_*.md
+DEV_FEATURES.md
+ROADMAP_*.md
+analysis/
+tests/
+tools/
+reference_tests/
+docs/*.md
+release/
+preview.png
+
+# Editor and OS noise
+.vscode/
+Thumbs.db
+desktop.ini

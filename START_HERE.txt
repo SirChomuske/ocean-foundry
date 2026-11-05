@@ -1,0 +1,24 @@
+Ocean Foundry v1.3 — Created by SirChocoo
+
+1. Extract the entire ZIP to a writable folder, such as Documents. Do not run inside the ZIP.
+2. Double-click Ocean Foundry.exe. Keep _internal and all supplied files beside it.
+3. Set the foundation, open Colour & glass, choose Ocean or Lava and a normal source,
+   adjust the colours, then Bake.
+4. Open Export and choose .litematic, .schem or Axiom .bp.
+
+Portable 64-bit Windows application; no separate Python, Minecraft installation or
+online generation service is needed to run the app. Importing and placing builds
+requires the corresponding Minecraft mod. The material catalogue targets Java
+26.1.2; coloured exports use that version. Check your importing mod's compatibility.
+
+Upgrade: close the old app normally. Back up its folder, then extract v1.3 into the
+same location and replace the program files. Keep settings.json, settings.bak,
+normal_maps, named profiles and exports. New defaults do not replace existing
+settings.json. Preserve user files before removing any old program files.
+English and Chinese packages share features and settings. Run one instance per folder.
+
+Read User Guide.md for controls and Release Notes.md for changes and known limits.
+The guide is also available inside the app. The preview approximates Minecraft;
+shaders and resource packs can produce different results.
+For startup issues, include error.log beside the app (if present), Windows/GPU
+details and steps to reproduce when reporting the problem.

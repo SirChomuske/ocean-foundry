@@ -1,0 +1,166 @@
+{
+  "minecraft_version": "26.1.2",
+  "data_version": 4790,
+  "blocks": [
+    {
+      "id": "minecraft:white_stained_glass",
+      "properties": {},
+      "rgb": [
+        255.0,
+        255.0,
+        255.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass",
+      "properties": {},
+      "rgb": [
+        153.0,
+        153.0,
+        153.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:gray_stained_glass",
+      "properties": {},
+      "rgb": [
+        76.0,
+        76.0,
+        76.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:black_stained_glass",
+      "properties": {},
+      "rgb": [
+        25.0,
+        25.0,
+        25.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:brown_stained_glass",
+      "properties": {},
+      "rgb": [
+        102.0,
+        76.0,
+        51.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:red_stained_glass",
+      "properties": {},
+      "rgb": [
+        153.0,
+        51.0,
+        51.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:orange_stained_glass",
+      "properties": {},
+      "rgb": [
+        216.0,
+        127.0,
+        51.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:yellow_stained_glass",
+      "properties": {},
+      "rgb": [
+        229.0,
+        229.0,
+        51.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:lime_stained_glass",
+      "properties": {},
+      "rgb": [
+        127.0,
+        204.0,
+        25.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:green_stained_glass",
+      "properties": {},
+      "rgb": [
+        102.0,
+        127.0,
+        51.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:cyan_stained_glass",
+      "properties": {},
+      "rgb": [
+        76.0,
+        127.0,
+        153.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass",
+      "properties": {},
+      "rgb": [
+        102.0,
+        153.0,
+        216.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:blue_stained_glass",
+      "properties": {},
+      "rgb": [
+        51.0,
+        76.0,
+        178.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:purple_stained_glass",
+      "properties": {},
+      "rgb": [
+        127.0,
+        63.0,
+        178.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:magenta_stained_glass",
+      "properties": {},
+      "rgb": [
+        178.0,
+        76.0,
+        216.0
+      ],
+      "alpha": 0.46012561274509806
+    },
+    {
+      "id": "minecraft:pink_stained_glass",
+      "properties": {},
+      "rgb": [
+        242.0,
+        127.0,
+        165.0
+      ],
+      "alpha": 0.46012561274509806
+    }
+  ]
+}
